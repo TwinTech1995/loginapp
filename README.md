@@ -1,1 +1,1 @@
-sample one. yeah
+Sample example
