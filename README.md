@@ -1,1 +1,1 @@
-Sample example@
+Sample example
