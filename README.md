@@ -1,2 +1,2 @@
 Sample one
-Example 2 1
+Example 2 
