@@ -53,7 +53,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
-                <mainClass>com.example.loginapp.LoginApplication</mainClass>
+                <mainClass>login.LoginApplication</mainClass>
             </configuration>
         </plugin>
     </plugins>
