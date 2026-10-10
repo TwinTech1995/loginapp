@@ -1,4 +1,2 @@
-Sample one /n
-
-Example
+Sample 
 
